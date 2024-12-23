@@ -4,7 +4,7 @@
 <img src="FOTO.jpg" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
-- Este repositório foi criado para compartilhar os principais PROJETOS EXCLUSIVOS que desenvolvo. Aqui você poderá escolher e comprar os projetos que mais te interessam!
+- Este repositório foi criado para compartilhar fotos e descrições detalhadas dos recursos e funcionalidades dos principais **projetos exclusivos** que desenvolvo. Aqui, você pode explorar, selecionar e adquirir os projetos que mais despertam seu interesse!
 
 ## COMO FUNCIONA?
 - Simples! Basta entrar em contato comigo através deste link: [https://t.me/VILHALVA100](https://t.me/VILHALVA100) e informar qual projeto você deseja adquirir. Para agilizar o processo, recomendo copiar o link do projeto diretamente deste Repositório.
